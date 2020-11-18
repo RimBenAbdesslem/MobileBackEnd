@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\GestionProduit.deps.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\GestionProduit.runtimeconfig.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\GestionProduit.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\GestionProduit.dll
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\bin\Debug\netcoreapp2.1\GestionProduit.pdb
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.RazorAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.dll
+C:\Users\LENOVO\source\repos\GestionProduit\GestionProduit\obj\Debug\netcoreapp2.1\GestionProduit.pdb
